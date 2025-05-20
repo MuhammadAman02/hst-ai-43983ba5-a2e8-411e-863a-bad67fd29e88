@@ -1,0 +1,2 @@
+"generate me a fraud detection system in python only without any additional ML related libraries used"
+
